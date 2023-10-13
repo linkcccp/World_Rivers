@@ -1,6 +1,6 @@
-version="1.35.*"
+version="1.0"
 tags={
 	"Map"
 }
 name="World Rivers"
-supported_version="1.35.6"
+supported_version="1.35.*"
