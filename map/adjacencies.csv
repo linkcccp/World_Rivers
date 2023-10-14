@@ -113,4 +113,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 682;683;sea;6002;-1;-1;-1;-1;Wuchang-Nanchang
 4196;2142;sea;6006;-1;-1;-1;-1;Haizhou-Huaian
 692;688;sea;6008;-1;-1;-1;-1;Huaiqing-Kaifeng
+2105;4663;sea;6019;-1;-1;-1;-1;Kuru-Jixi
+2105;729;sea;6020;-1;-1;-1;-1;Kuru-Bohori
+4214;1050;sea;6022;-1;-1;-1;-1;Kalar-Deren
+1048;1050;sea;6023;-1;-1;-1;-1;MiyooGasan-Deren
 -1;-1;;-1;-1;-1;-1;-1;-1;

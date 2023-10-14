@@ -663,6 +663,8 @@ mongolia_region = {
 
 manchuria_region = {
 	areas = {
+		heilongjiang_river_area #黑龙江河
+		amur_river_area #阿穆尔河
 		heilongjiang_area
 		east_heilongjiang_area
 		jilin_area
@@ -888,7 +890,7 @@ south_china_region = {
 		guangxi_area
 
 		changjiang_area #长江地区
-		huanghe_area #黄河地区
+		
 	}
 	monsoon = {
 		00.05.01
@@ -920,6 +922,7 @@ north_china_region = {
 		west_gansu_area
 		jiangsu_area
 		anhui_area
+		huanghe_area #黄河地区
 	}
 }
 
