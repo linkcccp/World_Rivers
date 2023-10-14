@@ -296,6 +296,7 @@ carpathia_region = {
 
 egypt_region = {
 	areas = {
+		nile_river_area #尼罗河
 		lower_nubia_area
 		cyrenaica_area
 		gulf_of_arabia_area
@@ -929,6 +930,8 @@ north_china_region = {
 brazil_region = {
 	
 	areas = {
+		amazon_river_area #亚马逊河
+		madeira_river_area #马代拉河
 		rio_grande_do_sol_area
 		minas_gerais_area
 		goias_area
@@ -1229,6 +1232,11 @@ southeast_america_region =  {
 
 mississippi_region = {
 	areas = {
+		mississippi_river_area #密西西比河
+		arkansas_river_area #阿肯色河
+		ohio_river_area #俄亥俄河
+		missouri_river_area #密苏里河
+		
 		lower_louisiana_area
 		west_florida_area
 		upper_louisiana_area
