@@ -3,6 +3,10 @@
 #Sea Areas:
 #No restriction on size.
 
+#多瑙河
+danube_river_area = {
+	6082 6083 6084 6085 6086 6087 6088 6089
+}
 #第聂伯河
 dnieper_river_area = {
 	6075 6076 6077 6078 6079 6080 6081
