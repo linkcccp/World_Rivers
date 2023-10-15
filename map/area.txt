@@ -3,6 +3,10 @@
 #Sea Areas:
 #No restriction on size.
 
+#伏尔加河
+volga_river_area = {
+	6067 6068 6069 6070 6071 6072 6073 6074
+}
 #密西西比河
 mississippi_river_area = {
 	6046 6047 6048 6049 6050 6051 6052 6053

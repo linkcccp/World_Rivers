@@ -167,6 +167,9 @@ ural_region = {
 		bashkiria_area
 		samara_area
 		volga_area
+
+        #伏尔加河
+		volga_river_area
 	}
 }
 
