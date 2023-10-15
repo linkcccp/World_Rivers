@@ -53,6 +53,7 @@ scandinavia_region = {
 
 low_countries_region = {
 	areas = {
+		rhine_river_area #莱茵河
 		wallonia_area
 		flanders_area
 		holland_area

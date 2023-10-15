@@ -3,6 +3,10 @@
 #Sea Areas:
 #No restriction on size.
 
+#莱茵河
+rhine_river_area = {
+	6100 6101 6102 6103 6104 6105
+}
 #恒河
 ganges_river_area = {
 	6090 6091 6092 6093 6094
