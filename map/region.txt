@@ -242,6 +242,7 @@ poland_region = {
 
 ruthenia_region = {
 	areas = {
+		dnieper_river_area #第聂伯河
 		west_dniepr_area
 		east_dniepr_area
 		sloboda_ukraine_area

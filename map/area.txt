@@ -3,6 +3,10 @@
 #Sea Areas:
 #No restriction on size.
 
+#第聂伯河
+dnieper_river_area = {
+	6075 6076 6077 6078 6079 6080 6081
+}
 #伏尔加河
 volga_river_area = {
 	6067 6068 6069 6070 6071 6072 6073 6074
