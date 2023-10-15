@@ -3,6 +3,14 @@
 #Sea Areas:
 #No restriction on size.
 
+#恒河
+ganges_river_area = {
+	6090 6091 6092 6093 6094
+}
+#印度河
+indus_river_area = {
+	6095 6096 6097 6098 6099
+}
 #多瑙河
 danube_river_area = {
 	6082 6083 6084 6085 6086 6087 6088 6089

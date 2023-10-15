@@ -739,6 +739,7 @@ hindusthan_region = {
 
 bengal_region = {
 	areas = {
+		ganges_river_area #恒河
 		gaur_area
 		west_bengal_area
 		north_bengal_area
@@ -759,6 +760,7 @@ bengal_region = {
 
 west_india_region = {
 	areas = {
+		indus_river_area #印度河
 		marwar_area
 		mewar_area
 		jaipur_area
