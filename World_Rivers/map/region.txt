@@ -53,7 +53,7 @@ scandinavia_region = {
 
 low_countries_region = {
 	areas = {
-		rhine_river_area #莱茵河
+		
 		wallonia_area
 		flanders_area
 		holland_area
@@ -169,8 +169,7 @@ ural_region = {
 		samara_area
 		volga_area
 
-        #伏尔加河
-		volga_river_area
+
 	}
 }
 
@@ -225,6 +224,7 @@ baltic_region = {
 		west_prussia_area
 		east_prussia_area
 		samogitia_area
+
 	}
 }
 
@@ -243,7 +243,7 @@ poland_region = {
 
 ruthenia_region = {
 	areas = {
-		dnieper_river_area #第聂伯河
+
 		west_dniepr_area
 		east_dniepr_area
 		sloboda_ukraine_area
@@ -297,7 +297,7 @@ carpathia_region = {
 		wallachia_area
 		moldavia_area
 
-		danube_river_area #多瑙河
+
 	}
 }
 
@@ -671,8 +671,8 @@ mongolia_region = {
 
 manchuria_region = {
 	areas = {
-		heilongjiang_river_area #黑龙江河
-		amur_river_area #阿穆尔河
+
+
 		heilongjiang_area
 		east_heilongjiang_area
 		jilin_area
@@ -740,7 +740,7 @@ hindusthan_region = {
 
 bengal_region = {
 	areas = {
-		ganges_river_area #恒河
+
 		gaur_area
 		west_bengal_area
 		north_bengal_area
@@ -761,7 +761,7 @@ bengal_region = {
 
 west_india_region = {
 	areas = {
-		indus_river_area #印度河
+
 		marwar_area
 		mewar_area
 		jaipur_area
@@ -899,7 +899,7 @@ south_china_region = {
 		hunan_area
 		guangxi_area
 
-		changjiang_area #长江地区
+
 		
 	}
 	monsoon = {
@@ -932,15 +932,13 @@ north_china_region = {
 		west_gansu_area
 		jiangsu_area
 		anhui_area
-		huanghe_area #黄河地区
 	}
 }
 
 brazil_region = {
 	
 	areas = {
-		amazon_river_area #亚马逊河
-		madeira_river_area #马代拉河
+
 		rio_grande_do_sol_area
 		minas_gerais_area
 		goias_area
@@ -1241,10 +1239,7 @@ southeast_america_region =  {
 
 mississippi_region = {
 	areas = {
-		mississippi_river_area #密西西比河
-		arkansas_river_area #阿肯色河
-		ohio_river_area #俄亥俄河
-		missouri_river_area #密苏里河
+
 		
 		lower_louisiana_area
 		west_florida_area
@@ -1402,6 +1397,12 @@ baltic_sea_region = {
 	areas = {
 		baltic_area
 		kattegat_area
+		mississippi_river_area #密西西比河
+		arkansas_river_area #阿肯色河
+		ohio_river_area #俄亥俄河
+		missouri_river_area #密苏里河
+
+
 	}
 }
 
@@ -1415,6 +1416,7 @@ north_atlantic_region = {
 		bay_of_biscay_area
 		north_atlantic_area
 		denmark_strait_area
+		rhine_river_area #莱茵河
 	}
 }
 
@@ -1432,6 +1434,11 @@ mediterrenean_region = {
 		eastern_mediterrenean_area
 		western_mediterrenean_area
 		black_sea_area
+		danube_river_area #多瑙河	
+		volga_river_area #伏尔加河
+		dnieper_river_area #第聂伯河
+
+
 	}
 }
 
@@ -1442,6 +1449,8 @@ caribbean_sea_region = {
 		caribbean_sea_area
 		gulf_of_mexico_area
 		sargasso_sea_area
+		amazon_river_area #亚马逊河
+		madeira_river_area #马代拉河
 	}
 }
 
@@ -1473,12 +1482,14 @@ east_indian_ocean_region = {
 		eastern_indian_ocean_area
 		bay_of_bengal_area
 		andaman_sea_area
+		ganges_river_area #恒河
 	}
 }
 
 south_indian_ocean_region = {
 	areas = {
 		south_indian_ocean_area
+		indus_river_area #印度河
 	}
 }
 
@@ -1497,12 +1508,16 @@ east_china_sea_region = {
 		philipine_sea_area
 		sea_of_japan_area
 		sea_of_okhotsk_area
+		changjiang_area #长江地区
+		huanghe_area #黄河地区
 	}
 }
 
 north_west_pacific_region = {
 	areas = {
 		east_pacific_ocean_area
+		amur_river_area #阿穆尔河
+		heilongjiang_river_area #黑龙江河
 	}
 }
 
