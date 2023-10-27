@@ -3,6 +3,11 @@
 #Sea Areas:
 #No restriction on size.
 
+#里海
+caspian_sea_area = {
+	6106 6107 6108 6109 1326
+}
+
 #莱茵河
 rhine_river_area = {
 	6100 6101 6102 6103 6104 6105

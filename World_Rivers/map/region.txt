@@ -1437,6 +1437,7 @@ mediterrenean_region = {
 		danube_river_area #多瑙河	
 		volga_river_area #伏尔加河
 		dnieper_river_area #第聂伯河
+		caspian_sea_area #里海
 
 
 	}
