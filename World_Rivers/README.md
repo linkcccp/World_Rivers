@@ -1,5 +1,10 @@
 # World_Rivers
 
+## version：1.1
+## content：
+- 修改里海为5块
+- 修复河流为内海
+
 ## version: 1.0
 ## content:
 - 添加了长江，黄河
