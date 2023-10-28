@@ -8,6 +8,98 @@ random_new_world_region = {
 # EUROPE                               #
 ########################################
 
+#添加的河流地区
+
+changjiang_river_region = {
+	areas = {
+		changjiang_area
+	}
+}
+
+huanghe_river_region = {
+	areas = {
+		huanghe_area
+	}
+}
+
+heilongjiang_river_region = {
+	areas = {
+		amur_river_area
+		heilongjiang_river_area
+	}
+}
+
+nile_river_region = {
+	areas = {
+		nile_river_area
+	}
+}
+
+amazon_river_region = {
+	areas = {
+		madeira_river_area
+		amazon_river_area
+	}
+}
+
+mississippi_river_region = {
+	areas = {
+		missouri_river_area
+		ohio_river_area
+		arkansas_river_area
+		mississippi_river_area
+	}
+}
+
+volga_river_region = {
+	areas = {
+		volga_river_area
+	}
+}
+
+dnieper_river_region = {
+	areas = {
+		dnieper_river_area
+	}
+}
+
+danube_river_region = {
+	areas = {
+		danube_river_area
+	}
+}
+
+indus_river_region = {
+	areas = {
+		indus_river_area
+	}
+}
+
+ganges_river_region = {
+	areas = {
+		ganges_river_area
+	}
+}
+
+rhine_river_region = {
+	areas = {
+		rhine_river_area
+	}
+}
+
+caspian_sea_region = {
+	areas = {
+		caspian_sea_area
+	}
+}
+
+
+
+
+
+
+
+
 france_region = {
 	areas = {
 		brittany_area
