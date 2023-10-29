@@ -94,7 +94,11 @@ caspian_sea_region = {
 }
 
 
-
+don_river_region = {
+	areas = {
+		don_river_area
+	}
+}
 
 
 

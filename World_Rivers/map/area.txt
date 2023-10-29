@@ -3,6 +3,11 @@
 #Sea Areas:
 #No restriction on size.
 
+#顿河
+don_river_area = {
+	6110 6111 6112 6113 6114
+}
+
 #里海
 caspian_sea_area = {
 	6106 6107 6108 6109 1326

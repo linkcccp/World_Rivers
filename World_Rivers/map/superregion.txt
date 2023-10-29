@@ -166,6 +166,7 @@ south_european_sea_superregion = {
 	dnieper_river_region
 	danube_river_region
 	caspian_sea_region
+	don_river_region
 }
 
 west_african_sea_superregion = {
