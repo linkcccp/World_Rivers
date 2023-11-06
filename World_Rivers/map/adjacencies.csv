@@ -146,4 +146,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 75;4714;sea;6103;-1;-1;-1;-1;Strasbourg-Duralge
 288;1971;sea;6111;-1;-1;-1;-1;Stalingrad-LowerDonRiver
 6111;6069;canal;1971;-1;-1;-1;-1;volga-don-canal
+6117;6120;canal;1757;-1;-1;-1;-1;main_danube_canal
+1770;134;sea;6118;-1;-1;-1;-1;Vienna-Krems
 -1;-1;;-1;-1;-1;-1;-1;-1;

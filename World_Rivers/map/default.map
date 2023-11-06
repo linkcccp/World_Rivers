@@ -208,5 +208,11 @@ canal_definition = {
 	y = 1431                # The map height minus the y-coordinate of the bottom left corner of your tile.
 }
 
+canal_definition = {
+	name = "main_danube_canal" # Name of your great project.
+	x = 2916                 # The x-coordinate of the top-left corner of your tile.
+	y = 1435                 # The map height minus the y-coordinate of the bottom left corner of your tile.
+}
+
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
 tree = { 3 4 7 10 }
