@@ -156,6 +156,7 @@ north_european_sea_superregion = {
 	north_atlantic_region
 	baltic_sea_region
 	rhine_river_region
+	main_river_region
 }
 
 south_european_sea_superregion = {

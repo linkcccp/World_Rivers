@@ -3,6 +3,10 @@
 #Sea Areas:
 #No restriction on size.
 
+main_river_area = {
+	6115 6116 6117
+}
+
 #顿河
 don_river_area = {
 	6110 6111 6112 6113 6114
