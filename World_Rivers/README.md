@@ -2,31 +2,34 @@
 
 ## version：1.3
 ## content：
-- 添加美因河
-- 延长多瑙河
-- 添加美因河-多瑙河运河
+- Added the River Main
+- Extension of the Danube
+- Added Main-Danube Canal
+
 
 ## version：1.2
 ## content：
-- 添加顿河
-- 添加伏尔加河-顿河运河【1000 cost，48 month】
-- 建造运河需要科技提前到12级
-- 建造运河所需的花费为原先的1/10
+- Add the Don River
+- Add Volga-Don Canal [1000 cost, 48 month]
+- Building a canal requires tech level 12 advancement
+- The cost of building the canal is 1/10 of the original cost
+
 
 ## version：1.1.1
 ## content：
-- 河流独自为一个地区
+- The river is a region on its own
+
 
 
 ## version：1.1
 ## content：
-- 修改里海为5块
-- 修复河流为内海
+- Changed the Caspian Sea to 5 blocks
+- Restore rivers as inland seas
 
 ## version: 1.0
 ## content:
-- 添加了长江，黄河
-- 添加了黑龙江河，阿穆尔河
-- 添加了尼罗河，亚马逊河，密西西比河及其支流
-- 添加了伏尔加河，第聂伯河，恒河，印度河，多瑙河，莱茵河
-- 南京添加贸易中心，修改杭州为贸易黑洞
+- Added Yangtze River, Yellow River
+- Added Heilongjiang River, Amur River
+- Added the Nile, Amazon, Mississippi and their tributaries
+- Added Volga, Dnieper, Ganges, Indus, Danube, Rhine
+- Added a trade center to Nanjing, and changed Hangzhou to a trade black hole
