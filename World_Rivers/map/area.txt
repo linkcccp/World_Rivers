@@ -3,6 +3,7 @@
 #Sea Areas:
 #No restriction on size.
 
+#美因河
 main_river_area = {
 	6115 6116 6117
 }
@@ -31,7 +32,7 @@ indus_river_area = {
 }
 #多瑙河
 danube_river_area = {
-	6082 6083 6084 6085 6086 6087 6088 6089
+	6082 6083 6084 6085 6086 6087 6088 6089 6118 6119 6120
 }
 #第聂伯河
 dnieper_river_area = {
