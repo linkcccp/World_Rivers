@@ -188,7 +188,7 @@ main_danube_canal = {
 	
 	#time to build
 	time = {
-		months = 1
+		months = 120
 	}
 	
 	#how much to build one
