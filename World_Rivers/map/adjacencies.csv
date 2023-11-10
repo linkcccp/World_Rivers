@@ -61,7 +61,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 4700;2296;sea;1319;3215;1314;3215;1312;Lesbos-Biga
 285;2447;sea;1323;3374;1423;3381;1423;Kaffa-Mapa
 2022;976;sea;1559;-1;-1;-1;-1;Haida-Tlingit
-2587;2521;sea;1661;1530;1620;1515;1618;Odawa-Okouara
 2587;1001;sea;1661;1511;1656;1510;1660;Odawa-Soto
 2576;2578;sea;1490;-1;-1;-1;-1;Mingan-Anticosti
 249;4121;sea;1284;-1;-1;-1;-1;Ayrshire-Ulster
@@ -151,4 +150,5 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2584;993;sea;6122;-1;-1;-1;-1;Montreal-St. Germain
 1659;1660;canal;987;-1;-1;-1;-1;Welland_Canal
 944;987;sea;1660;-1;-1;-1;-1;St. Clair
+1663;1661;canal;-1;-1;-1;-1;sault_st_marie_canal
 -1;-1;;-1;-1;-1;-1;-1;-1;
