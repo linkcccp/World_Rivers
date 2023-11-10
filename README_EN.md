@@ -8,15 +8,12 @@
 - [ ] Ob River
 - [ ] Yenisei River
 - [x] Welland Canal: A canal connecting Lake Ontario to Lake Erie
-<<<<<<< HEAD
 - [ ] St. Mary's Canal: Canals of Lake Superior and Lake Huron
 
 ## version：1.4
 ## content：
 - Add St. Lawrence River
 - Add the Welland Canal
-=======
->>>>>>> dev
 
 ## version：1.3
 ## content：
