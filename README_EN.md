@@ -7,7 +7,7 @@
 - [ ] Lena River: One of the three major rivers that flow into the Arctic Ocean in Russia
 - [ ] Ob River
 - [ ] Yenisei River
-- [ ] Welland Canal: A canal connecting Lake Ontario to Lake Erie
+- [x] Welland Canal: A canal connecting Lake Ontario to Lake Erie
 
 ## version：1.3
 ## content：
