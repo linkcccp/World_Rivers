@@ -11,4 +11,8 @@ spriteTypes = { # If editing an existing .gfx file then this line will likely al
         name = "GFX_great_project_welland_canal"	
         texturefile = "gfx//interface//great_projects//great_project_suez_canal.dds"
     }
+    spriteType = {
+        name = "GFX_great_project_sault_st_marie_canal"	
+        texturefile = "gfx//interface//great_projects//great_project_suez_canal.dds"
+    }
 }
