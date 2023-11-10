@@ -66,6 +66,7 @@ far_east_superregion = {
 	korea_region
 	japan_region
 	manchuria_region
+	lena_river_region
 }
 
 africa_superregion = {
