@@ -3,7 +3,7 @@
 [English](./README_EN.md) | [中文](./README.md)
 
 ## To Do
-- [ ] St. Lawrence River: The Canadian River and the American boundary river
+- [x] St. Lawrence River: The Canadian River and the American boundary river
 - [ ] Lena River: One of the three major rivers that flow into the Arctic Ocean in Russia
 - [ ] Ob River
 - [ ] Yenisei River
