@@ -2,12 +2,15 @@
 
 [English](./README_EN.md) | [中文](./README.md)
 
+Support for English: https://steamcommunity.com/sharedfiles/filedetails/?id=3074087464
+Support Chinese: https://steamcommunity.com/sharedfiles/filedetails/?id=3051480457
 ## To Do
-- [x] St. Lawrence River: The Canadian River and the American boundary river
-- [ ] Lena River: One of the three major rivers that flow into the Arctic Ocean in Russia
-- [ ] Ob River
+- [x] St. Lawrence River: The Canadian River, the boundary river of the United States
+- [x] Lena River: One of the three major rivers flowing into the Arctic Ocean in Russia
+- [ ] Obi River
 - [ ] Yenisei River
-- [x] Welland Canal: A canal connecting Lake Ontario to Lake Erie
+- [x] Welland Canal: a canal connecting Lake Ontario and Lake Erie
+- [x] Su Saint Mary Canal
 
 ## version：1.3
 ## content：
