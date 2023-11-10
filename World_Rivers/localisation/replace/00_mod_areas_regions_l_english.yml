@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿l_english:
  huanghe_area:0 "Yellow River"
  changjiang_area:0 "Yangtze"
@@ -34,3 +35,6 @@
  don_river_region:0 "Don River"
  main_river_area:0 "Main River"
  main_river_region:0 "Main River"
+ st_lawrence_river_area:0 "St. Lawrence River"
+ st_lawrence_river_region:0 "St. Lawrence River"
+
