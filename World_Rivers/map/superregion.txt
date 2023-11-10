@@ -150,6 +150,7 @@ east_american_sea_superregion = {
 
 	amazon_river_region
 	mississippi_river_region
+	st_lawrence_river_region
 }
 
 north_european_sea_superregion = {

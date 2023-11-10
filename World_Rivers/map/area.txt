@@ -3,6 +3,11 @@
 #Sea Areas:
 #No restriction on size.
 
+#圣劳伦斯河
+st_lawrence_river_area = {
+	6121 6122 6123
+}
+
 #美因河
 main_river_area = {
 	6115 6116 6117
