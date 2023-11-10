@@ -5,4 +5,4 @@ tags={
 name="World Rivers v1.3.2 for English"
 supported_version="1.36.*"
 picture="thumbnail.png"
-path="mod/World_Rivers"
+path="mod/World_Rivers_for_English"
