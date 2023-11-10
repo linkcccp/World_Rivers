@@ -150,4 +150,5 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1770;134;sea;6118;-1;-1;-1;-1;Vienna-Krems
 2584;993;sea;6122;-1;-1;-1;-1;Montreal-St. Germain
 1659;1660;canal;987;-1;-1;-1;-1;Welland_Canal
+944;987;sea;1660;-1;-1;-1;-1;St. Clair
 -1;-1;;-1;-1;-1;-1;-1;-1;
