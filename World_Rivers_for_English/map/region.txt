@@ -10,6 +10,12 @@ random_new_world_region = {
 
 #添加的河流地区
 
+lena_river_region = {
+	areas = {
+		lena_river_area
+	}
+}
+
 st_lawrence_river_region = {
 	areas = {
 		st_lawrence_river_area

@@ -1,12 +1,16 @@
 # World_Rivers
 
 [English](./README_EN.md) | [中文](./README.md)
+
+支持英语：https://steamcommunity.com/sharedfiles/filedetails/?id=3074087464
+支持中文：https://steamcommunity.com/sharedfiles/filedetails/?id=3051480457
 ## To Do
 - [x] 圣劳伦斯河：加拿大河美国的界河
-- [ ] 勒拿河：俄罗斯流入北冰洋的三大河流之一
+- [x] 勒拿河：俄罗斯流入北冰洋的三大河流之一
 - [ ] 鄂毕河
 - [ ] 叶尼塞河
-- [ ] 韦兰运河：连接安大略湖和伊利湖的运河
+- [x] 韦兰运河：连接安大略湖和伊利湖的运河
+- [x] 苏圣玛丽运河
 
 ## version：1.3
 ## content：
