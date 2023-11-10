@@ -1,8 +1,8 @@
-version="1.1.1"
+version="1.3.2"
 tags={
 	"Map"
 }
-name="World Rivers v1.1.1"
-supported_version="1.35.*"
+name="World Rivers v1.3.2"
+supported_version="1.36.*"
 picture="thumbnail.png"
 path="mod/World_Rivers"
