@@ -546,7 +546,7 @@ sault_st_marie_canal = {
 	
 	#time to build
 	time = {
-		months = 1
+		months = 72
 	}
 	
 	#how much to build one
