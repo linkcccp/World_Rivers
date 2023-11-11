@@ -4,7 +4,8 @@
 
 支持英语：https://steamcommunity.com/sharedfiles/filedetails/?id=3074087464
 支持中文：https://steamcommunity.com/sharedfiles/filedetails/?id=3051480457
-## To Do
+## version：1.4
+## content：
 - [x] 圣劳伦斯河：加拿大河美国的界河
 - [x] 勒拿河：俄罗斯流入北冰洋的三大河流之一
 - [x] 鄂毕河
