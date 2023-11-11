@@ -60,6 +60,9 @@ tartary_superregion = {
 	mongolia_region
 	central_asia_region
 	tibet_region
+	lena_river_region
+	yenisei_river_region
+	obi_river_region
 }
 
 far_east_superregion = {
@@ -198,7 +201,4 @@ north_pacific_sea_superregion = {
 	heilongjiang_river_region
 	huanghe_river_region
 	changjiang_river_region
-	lena_river_region
-	yenisei_river_region
-	obi_river_region
 }
