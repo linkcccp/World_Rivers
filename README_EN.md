@@ -4,11 +4,12 @@
 
 Support for English: https://steamcommunity.com/sharedfiles/filedetails/?id=3074087464
 Support Chinese: https://steamcommunity.com/sharedfiles/filedetails/?id=3051480457
-## To Do
+## version：1.4
+## content：
 - [x] St. Lawrence River: The Canadian River, the boundary river of the United States
 - [x] Lena River: One of the three major rivers flowing into the Arctic Ocean in Russia
-- [ ] Obi River
-- [ ] Yenisei River
+- [x] Obi River
+- [x] Yenisei River
 - [x] Welland Canal: a canal connecting Lake Ontario and Lake Erie
 - [x] Su Saint Mary Canal
 
