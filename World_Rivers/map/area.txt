@@ -3,6 +3,17 @@
 #Sea Areas:
 #No restriction on size.
 
+#鄂毕河
+obi_river_area = {
+	#鄂毕河
+	6136 6137 6138 6139 6140 6141
+}
+
+#叶尼塞河
+yenisei_river_area = {
+	#叶尼塞河
+	6130 6131 6132 6133 6134 6135
+}
 #勒拿河
 lena_river_area = {
 	6124 6125 6126 6127 6128 6129
