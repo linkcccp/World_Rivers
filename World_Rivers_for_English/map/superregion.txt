@@ -199,4 +199,6 @@ north_pacific_sea_superregion = {
 	huanghe_river_region
 	changjiang_river_region
 	lena_river_region
+	yenisei_river_region
+	obi_river_region
 }

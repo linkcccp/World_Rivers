@@ -10,6 +10,18 @@ random_new_world_region = {
 
 #添加的河流地区
 
+obi_river_region = {
+	areas = {
+		obi_river_area
+	}
+}
+
+yenisei_river_region = {
+	areas = {
+		yenisei_river_area
+	}
+}
+
 lena_river_region = {
 	areas = {
 		lena_river_area
