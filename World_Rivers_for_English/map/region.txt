@@ -10,6 +10,18 @@ random_new_world_region = {
 
 #添加的河流地区
 
+vistula_river_region = {
+	areas = { 
+		vistula_river_area
+	}
+}
+
+west_dvina_river_region = {
+	areas = {
+		west_dvina_river_area
+	}
+}
+
 amu_darya_region = {
 	areas = {
 		amu_darya_area

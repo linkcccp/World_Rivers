@@ -163,6 +163,8 @@ north_european_sea_superregion = {
 	baltic_sea_region
 	rhine_river_region
 	main_river_region
+	vistula_river_region
+	west_dvina_river_region
 }
 
 south_european_sea_superregion = {
