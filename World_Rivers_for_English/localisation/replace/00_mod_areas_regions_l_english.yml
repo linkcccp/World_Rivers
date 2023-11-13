@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿l_english:
+l_english:
  huanghe_area:0 "Yellow River"
  changjiang_area:0 "Yangtze"
  amur_river_area:0 "Amur River"
@@ -43,3 +42,7 @@
  yenisei_river_region:0 "Yenisei River"
  obi_river_area:0 "Obi River"
  obi_river_region:0 "Obi River"
+ syr_darya_area:0 "Syr Darya"
+ syr_darya_region:0 "Syr Darya"
+ amu_darya_area:0 "Amu Darya"
+ amu_darya_region:0 "Amu Darya"
