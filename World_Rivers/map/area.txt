@@ -3,6 +3,18 @@
 #Sea Areas:
 #No restriction on size.
 
+#维斯瓦河
+vistula_river_area = {
+	#维斯瓦河
+	6156 6157 6158 6159
+}
+
+#西德维那河
+west_dvina_river_area = {
+		#西德维那河
+	6152 6153 6154 6155
+}
+
 #阿姆河
 amu_darya_area = {
 	6147 6148 6149 6150 6151
