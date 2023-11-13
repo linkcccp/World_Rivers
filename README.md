@@ -2,8 +2,15 @@
 
 [English](./README_EN.md) | [中文](./README.md)
 
-支持英语：https://steamcommunity.com/sharedfiles/filedetails/?id=3074087464
-支持中文：https://steamcommunity.com/sharedfiles/filedetails/?id=3051480457
+- 支持英语：https://steamcommunity.com/sharedfiles/filedetails/?id=3074087464
+- 支持中文：https://steamcommunity.com/sharedfiles/filedetails/?id=3051480457
+
+## To Do
+- [x] 锡尔河
+- [x] 阿姆河
+- [ ] 西德维纳河
+- [ ] 维斯瓦河
+
 ## version：1.4
 ## content：
 - [x] 圣劳伦斯河：加拿大河美国的界河

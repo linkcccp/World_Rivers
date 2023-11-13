@@ -3,6 +3,16 @@
 #Sea Areas:
 #No restriction on size.
 
+#阿姆河
+amu_darya_area = {
+	6147 6148 6149 6150 6151
+}
+
+#锡尔河
+syr_darya_area = {
+	6142 6143 6144 6145 6146
+}
+
 #鄂毕河
 obi_river_area = {
 	#鄂毕河

@@ -63,6 +63,8 @@ tartary_superregion = {
 	lena_river_region
 	yenisei_river_region
 	obi_river_region
+	amu_darya_region
+	syr_darya_region
 }
 
 far_east_superregion = {

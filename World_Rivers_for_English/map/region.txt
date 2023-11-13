@@ -10,6 +10,18 @@ random_new_world_region = {
 
 #添加的河流地区
 
+amu_darya_region = {
+	areas = {
+		amu_darya_area
+	}
+}
+
+syr_darya_region = {
+	areas = {
+		syr_darya_area
+	}
+}
+
 obi_river_region = {
 	areas = {
 		obi_river_area
