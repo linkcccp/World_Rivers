@@ -60,6 +60,14 @@ tartary_superregion = {
 	mongolia_region
 	central_asia_region
 	tibet_region
+<<<<<<< HEAD:World_Rivers/map/superregion.txt
+=======
+	lena_river_region
+	yenisei_river_region
+	obi_river_region
+	amu_darya_region
+	syr_darya_region
+>>>>>>> ee773ff (add syr darya and amu darya):World_Rivers_for_English/map/superregion.txt
 }
 
 far_east_superregion = {
