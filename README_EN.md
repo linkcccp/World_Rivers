@@ -5,11 +5,12 @@
 - Support for English: https://steamcommunity.com/sharedfiles/filedetails/?id=3074087464
 - Support Chinese: https://steamcommunity.com/sharedfiles/filedetails/?id=3051480457
 
-## To Do
+## version: 1.5
+## content:
 - [x] Syr Darya
 - [x] Amu Darya
-- [ ] West Dvina River
-- [ ] Vistula River
+- [x] West Dvina River
+- [x] Vistula River
 ## version：1.4
 ## content：
 - [x] St. Lawrence River: The Canadian River, the boundary river of the United States
