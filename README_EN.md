@@ -7,6 +7,10 @@
 
 ## version: 1.5
 ## content:
+- Version 1.37 is supported
+
+## version: 1.5
+## content:
 - [x] Syr Darya
 - [x] Amu Darya
 - [x] West Dvina River

@@ -5,6 +5,10 @@
 - 支持英语：https://steamcommunity.com/sharedfiles/filedetails/?id=3074087464
 - 支持中文：https://steamcommunity.com/sharedfiles/filedetails/?id=3051480457
 
+## version: 1.5.1
+## content:
+- 支持1.37版本
+
 ## version: 1.5
 ## content:
 - [x] 锡尔河
