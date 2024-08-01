@@ -5,6 +5,10 @@
 - Support for English: https://steamcommunity.com/sharedfiles/filedetails/?id=3074087464
 - Support Chinese: https://steamcommunity.com/sharedfiles/filedetails/?id=3051480457
 
+## version: 1.5.1
+## content:
+- Version 1.37 is supported
+
 ## version: 1.5
 ## content:
 - [x] Syr Darya
