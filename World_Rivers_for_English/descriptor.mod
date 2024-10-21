@@ -1,8 +1,8 @@
-version="1.5.1"
+version="1.5.2"
 tags={
 	"Map"
 }
-name="World Rivers V1.5.1 for English"
+name="World Rivers V1.5.2 for English"
 picture="thumbnail.png"
 supported_version="v1.37.*.*"
 remote_file_id="3074087464"
